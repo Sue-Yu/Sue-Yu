@@ -1,4 +1,4 @@
-##Hey there! 👋 I'm Susan, a budding Data Analyst passionate about data, problem-solving, and learning new technologies.
+##Hey there! 👋 I'm Susan, an aspiring Data Analyst passionate about data, problem-solving, and learning new technologies.
 
 <!--
 **Sue-Yu/Sue-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="1536" height="1024" alt="Cozy Coder’s Pastel Workspace" src="https://github.com/user-attachments/assets/c7972f4f-ff00-4108-8dc1-5e9c0bbee80b" />
