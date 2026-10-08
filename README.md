@@ -33,7 +33,7 @@
 - 🧹 **Clean and prepare data** using Excel, Python, and SQL
 - 🗄️ **Query databases** with MySQL and PostgreSQL
 - 📈 **Build dashboards** and visual reports in Power BI and Excel
-- 🐍 **Automate tasks** and analyze datasets with Python
+- 🐍 **Automate tasks** and analyze datasets 
 - 🧩 **Solve problems** by turning messy data into clear insights
 
 
