@@ -1,4 +1,4 @@
-## Hi there 👋
+##Hey there! 👋 I'm Susan, a budding Data Analyst passionate about data, problem-solving, and learning new technologies.
 
 <!--
 **Sue-Yu/Sue-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
