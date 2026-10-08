@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  📊 Aspiring Data Analyst
+  📊 A Data Analyst
 </h3>
 
 <p align="center">
