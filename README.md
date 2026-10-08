@@ -31,9 +31,9 @@
 
 - 📊 **Analyze data** to find trends, patterns, and answers to business questions
 - 🧹 **Clean and prepare data** using Excel, Python, and SQL
+- 🤖 **Use AI tools** to speed up analysis, debug code, write queries, and explain results clearly
 - 🗄️ **Query databases** with MySQL and PostgreSQL
 - 📈 **Build dashboards** and visual reports in Power BI and Excel
-- 🐍 **Automate tasks** and analyze datasets 
 - 🧩 **Solve problems** by turning messy data into clear insights
 
 
