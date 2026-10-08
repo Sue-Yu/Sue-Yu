@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Susan</h1>
 
 <p align="center">
-  <img src="./profile.png" width="700">
+  <img width="1536" height="1024" alt="Cozy Coder’s Pastel Workspace" src="https://github.com/user-attachments/assets/c7972f4f-ff00-4108-8dc1-5e9c0bbee80b" />
 </p>
 
 <h3 align="center">
@@ -45,4 +45,4 @@
   <i>Learning • Building • Growing 🚀</i>
 </p>
 -->
-<img width="1536" height="1024" alt="Cozy Coder’s Pastel Workspace" src="https://github.com/user-attachments/assets/c7972f4f-ff00-4108-8dc1-5e9c0bbee80b" />
+
