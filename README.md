@@ -19,7 +19,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/POSTGRESQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 ---
@@ -44,5 +45,5 @@
 <p align="center">
   <i>Learning • Building • Growing 🚀</i>
 </p>
--->
+
 
