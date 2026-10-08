@@ -27,20 +27,15 @@
 
 ---
 
-### 🌱 Currently Learning
+### 🧰 What I Can Do
 
-- 📊 Data analysis
-- 🐍 Python
-- 🗄️ SQL & databases
-- 💻 C programming
-- 🧩 Problem solving
+- 📊 **Analyze data** to find trends, patterns, and answers to business questions
+- 🧹 **Clean and prepare data** using Excel, Python, and SQL
+- 🗄️ **Query databases** with MySQL and PostgreSQL
+- 📈 **Build dashboards** and visual reports in Power BI and Excel
+- 🐍 **Automate tasks** and analyze datasets with Python
+- 🧩 **Solve problems** by turning messy data into clear insights
 
-### 🎯 My Goals
-
-- Build data analysis projects
-- Strengthen my Python and SQL skills
-- Learn more about data visualization
-- Grow into a skilled Data Analyst
 
 ---
 
